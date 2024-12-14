@@ -1,2 +1,2 @@
 # CodeRun
-Repository for coderun education
+Repository for [coderun](https://coderun.yandex.ru/) education
